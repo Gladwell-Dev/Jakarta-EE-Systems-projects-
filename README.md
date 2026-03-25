@@ -7,7 +7,7 @@ internship application process for graduates — from browsing available positio
 to tracking application status.
 
 ---
-
+ 
 ## System Overview
 
 This system allows graduates to register, browse internship listings, submit 

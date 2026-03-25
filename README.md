@@ -28,39 +28,10 @@ centralized dashboard.
 
 ---
 
-## Data Models
-
-| Entity | Description |
-|---|---|
-| `Applicant` | Stores graduate profile — name, email, and credentials |
-| `Internship` | Holds position details — title, description, and deadline |
-| `Application` | Links an applicant to an internship with status and applied date |
-
-**Relationships:**
-- One `Applicant` → Many `Applications`
-- One `Internship` → Many `Applications`
-- `Application` status tracks the lifecycle: `Pending → Reviewed → Accepted / Rejected`
-
----
-
-## Technology Stack
-
-| Technology | Role |
-|---|---|
-| Jakarta Servlet | Handles HTTP request or response lifecycle for all web interactions |
-| Jakarta Faces (JSF) | Component-based MVC framework for building the user interface |
-| Jakarta RESTful Web Services | REST API layer producing and consuming JSON/XML data |
-| Jakarta Server Pages (JSP) | Template engine for rendering dynamic HTML content |
-| Jakarta CDI | Dependency injection for loosely coupled, maintainable components |
-| Jakarta Persistence API (JPA) | Object-relational mapping — maps `Applicant`, `Application` and `Internship` entities to database tables |
-| Jakarta Mail | SMTP email service for sending automated status update notifications to graduates |
-
----
-
 ## Architecture
 ```
-Client (Browser)  
-Jakarta Servlet / JSF )
+Client  
+Jakarta Servlet / JSF 
 CDI Managed Beans 
 JPA Entities : Database MySQL
 Jakarta Mail : SMTP Server (Email Notifications)

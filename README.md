@@ -59,19 +59,11 @@ centralized dashboard.
 
 ## Architecture
 ```
-Client (Browser)
-     │
-     ▼
-Jakarta Servlet / JSF (Presentation Layer)
-     │
-     ▼
-CDI Managed Beans (Business Logic Layer)
-     │
-     ▼
-JPA Entities ──► Database (MySQL / PostgreSQL)
-     │
-     ▼
-Jakarta Mail ──► SMTP Server (Email Notifications)
+Client (Browser)  
+Jakarta Servlet / JSF )
+CDI Managed Beans 
+JPA Entities : Database MySQL
+Jakarta Mail : SMTP Server (Email Notifications)
 ```
 
 ---
@@ -94,13 +86,8 @@ Jakarta Mail ──► SMTP Server (Email Notifications)
 The `EmailService` class uses **Jakarta Mail** over SMTP to automatically 
 notify graduates when their application status changes. Triggered whenever 
 an admin updates an application record.
-```java
-EmailService.sendStatusUpdate(
-    applicant.getEmail(),
-    "Your Application Status Has Been Updated",
-    "Congratulations! Your application has been accepted."
-);
-```
+
+
 
 ---
 

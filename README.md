@@ -3,7 +3,7 @@ This Repo will demostrate and show web enterprise  systems and  microservices .
 ## Graduate Internship Web Application
 
 A full-stack web application built on **Jakarta EE** that manages the end-to-end 
-internship application process for graduates — from browsing available positions 
+internship application process for graduates  from browsing available positions 
 to tracking application status.
 
 ---
@@ -47,7 +47,7 @@ centralized dashboard.
 
 | Technology | Role |
 |---|---|
-| Jakarta Servlet | Handles HTTP request/response lifecycle for all web interactions |
+| Jakarta Servlet | Handles HTTP request or response lifecycle for all web interactions |
 | Jakarta Faces (JSF) | Component-based MVC framework for building the user interface |
 | Jakarta RESTful Web Services | REST API layer producing and consuming JSON/XML data |
 | Jakarta Server Pages (JSP) | Template engine for rendering dynamic HTML content |

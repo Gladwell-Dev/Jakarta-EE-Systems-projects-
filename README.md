@@ -18,7 +18,7 @@ centralized dashboard.
 ---
 
 ## Core Features
-
+ 
 - Graduate registration and secure authentication
 - Internship listing management with deadlines
 - Application submission and tracking

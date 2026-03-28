@@ -9,7 +9,7 @@ to tracking application status.
 ---
  
 ## System Overview 
-
+ 
 This system allows graduates to register, browse internship listings, submit 
 applications, and receive real-time status updates via email. Administrators 
 can manage internship postings and review incoming applications through a 

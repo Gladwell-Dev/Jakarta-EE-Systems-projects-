@@ -14,8 +14,8 @@ to tracking application status.
 This system allows graduates to register, browse internship listings, submit 
 applications, and receive real-time status updates via email. Administrators 
 can manage internship postings and review incoming applications through a 
-centralized dashboard.
-
+centralized dashboard. 
+ 
 ---
 
 ## Core Features

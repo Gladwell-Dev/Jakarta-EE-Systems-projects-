@@ -52,7 +52,8 @@ Jakarta Mail : SMTP Server (Email Notifications)
 
 ---
 
-## Email Notification Services 
+## Email Notification Service
+
 
 The `EmailService` class uses **Jakarta Mail** over SMTP to automatically 
 notify graduates when their application status changes. Triggered whenever 

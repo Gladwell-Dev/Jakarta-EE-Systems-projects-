@@ -8,7 +8,6 @@ to tracking application status.
 
 ---
 
-
 ## System Overview  
  
 This system allows graduates to register, browse internship listings, submit 

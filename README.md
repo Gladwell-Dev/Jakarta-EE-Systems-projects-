@@ -40,7 +40,7 @@ Jakarta Mail : SMTP Server (Email Notifications)
 ---
 
 ## REST API Endpoints
-
+  
 | Method | Endpoint | Description |
 |---|---|---|
 | `GET` | `/api/internships` | Fetch all available internships |

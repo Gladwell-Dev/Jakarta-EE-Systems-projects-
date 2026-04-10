@@ -24,7 +24,7 @@ centralized dashboard.
 - Application submission and tracking
 - Automated email notifications on application status updates
 - Admin dashboard for reviewing and managing applications
-- Full CRUD operations on internship and applicant records
+- Full CRUD operations on internship and applicant records. 
 
 ---
 

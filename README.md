@@ -18,10 +18,10 @@ can manage internship postings and review incoming applications through a centra
 ## Core Features
  
 - Graduate registration and secure authentication
-- Internship listing management with deadlines
+- Internship listing management with deadlines.
 - Application submission and tracking
-- Automated email notifications on application status updates
-- Admin dashboard for reviewing and managing applications
+- Automated email notifications on application status updates.
+- Admin dashboard for reviewing and managing applications.
 - Full CRUD operations on internship and applicant records. 
 
 ---

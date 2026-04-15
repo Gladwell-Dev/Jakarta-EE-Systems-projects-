@@ -14,10 +14,10 @@ applications, and receive real-time status updates via email. Administrators
 can manage internship postings and review incoming applications through a centralised dashboard. 
  
 ---
-
+ 
 ## Core Features
  
-- Graduate registration and secure authentication
+- Graduate registration and secure authentication.
 - Internship listing management with deadlines.
 - Application submission and tracking
 - Automated email notifications on application status updates.

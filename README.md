@@ -1,5 +1,5 @@
 # Jakarta-EE-Systems-projects-
-This Repo will demostrate and show web enterprise  systems and  microservices .    
+This Repo will demostrate and show web enterprise  systems and  microservices .     
 ## Graduate Internship Web Application
 
 A full-stack web application built on **Jakarta EE** that manages the end-to-end 

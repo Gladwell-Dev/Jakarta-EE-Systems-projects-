@@ -3,7 +3,7 @@ This Repo will demostrate and show web enterprise  systems and  microservices .
 ## Graduate Internship Web Application
 
 A full-stack web application built on **Jakarta EE** that manages the end-to-end 
-internship application process for graduates  from browsing available positions to tracking application status.
+internship application process for graduates from browsing available positions to tracking application status.
 
 --- 
        

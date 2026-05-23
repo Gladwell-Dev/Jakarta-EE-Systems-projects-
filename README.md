@@ -7,7 +7,7 @@ internship application process for graduates from browsing available positions t
 
 ---
        
-## System Overview  
+## System Overview.  
    
 This system allows graduates to register, browse internship listings, submit 
 applications, and receive real-time status updates via email. Administrators

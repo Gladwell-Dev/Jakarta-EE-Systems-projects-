@@ -15,7 +15,7 @@ can manage internship postings and review incoming applications through a centra
  
 ---
   
-## Core Features
+## Core Features.
  
 - Graduate registration and secure authentication.
 - Internship listing management with deadlines.

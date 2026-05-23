@@ -26,7 +26,7 @@ can manage internship postings and review incoming applications through a centra
 
 ---
 
-## Architecture
+## Architecture.
 ```
 Client  
 Jakarta Servlet / JSF 
